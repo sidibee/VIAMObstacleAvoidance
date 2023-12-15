@@ -3,6 +3,9 @@
 ## Overview
 This program is designed to navigate a rover autonomously using its onboard camera. The current implementation relies solely on image processing techniques for obstacle detection and navigation.
 
+![Video](Robotics%20HW.mp4)
+
+
 ## Technical Limitations
 The navigation algorithm depends on edge detection from a single camera feed, which presents several limitations:
 
